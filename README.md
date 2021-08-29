@@ -1,16 +1,21 @@
-### Hi there 👋
+![MasterHead](https://github.com/Alfiyansya/Alfiyansya/blob/main/soc/banner.png)
+<h1 align="center">Hi,Welcome to my page 👋</h1>
 
-<!--
-**Alfiyansya/Alfiyansya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alfiyansya&label=Profile%20views&color=129e00&style=plastic" alt="Alfiyansya" /> </p>
+<img align="right" alt="Coding" width="350" src="https://github.com/Alfiyansya/Alfiyansya/blob/main/soc/illustration.gif">
+<h3 align="left">About me:</h3>
+<h5>I'm Alfian, an Android developer from South Cikarang, Indonesia.</h5>
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on Open-Source Android Development project
+- 💬 Ask me about Android development
+- ⚡ Fun fact : I always try to learn something new and then sleep till it stores in the brain😂.
+- 📫 How to reach me **achmadalfiansyah069@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/achmad-alfiansyah-a2950b186/" target="blank"><img align="center" src="https://github.com/Alfiyansya/Alfiyansya/blob/main/soc/LinkedIn_icon.png" alt="Alfiyansya" height="40" width="40" /></a>
+<a href="https://www.instagram.com/alfiyansyaa/" target="blank"><img align="center" src="https://github.com/Alfiyansya/Alfiyansya/blob/main/soc/instagram_icon.png" alt="Alfiyansya" height="50" width="50" /></a>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfiyansya&show_icons=true&locale=en&layout=compact" alt="alfiyansya" /></p> -->
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfiyansya&show_icons=true&locale=en" alt="alfiyansya" /></p> -->
+
