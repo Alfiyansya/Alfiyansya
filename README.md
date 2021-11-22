@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alfiyansya&label=Profile%20views&color=129e00&style=plastic" alt="Alfiyansya" /> </p>
 <img align="right" alt="Coding" width="350" src="https://github.com/Alfiyansya/Alfiyansya/blob/main/soc/illustration.gif">
-<h3 align="left">About me:</h3>
+
+## <img width="45" alt="about" src="https://raw.github.com/mlegy/mlegy/main/about.png"> About me
 <h5>I'm Alfian, an Android developer from South Cikarang, Indonesia.</h5>
 
 - 👯 I’m looking to collaborate on Open-Source Android Development project
