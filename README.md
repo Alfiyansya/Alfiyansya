@@ -7,7 +7,8 @@
 ## <img width="45" alt="about" src="https://raw.github.com/mlegy/mlegy/main/about.png"> About me
 <h5>I'm Alfian, an Android developer from South Cikarang, Indonesia.</h5>
 
-- 👯 I’m looking to collaborate on Open-Source Android Development project
+- 👯 👯 I’m looking to collaborate on an Open-Source Android Development project
+- 💼 I’m looking for Android Developer Jobs (Remote/On-Site in Indonesia)
 - 💬 Ask me about Android development
 - ⚡ Fun fact : I always try to learn something new and then sleep till it stores in the brain😂.
 - 📫 How to reach me **achmadalfiansyah069@gmail.com**
