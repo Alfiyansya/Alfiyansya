@@ -23,7 +23,8 @@
   [![Java](https://img.shields.io/badge/Java-logo?logo=java&logoColor=white&color=F89917)](https://www.java.com/)&nbsp;
   ![HTML 5](https://img.shields.io/badge/HTML_5-logo?logo=html5&logoColor=white&color=E5532D)&nbsp;
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-logo?logo=tailwindcss&logoColor=white&color=38BDF8)](https://tailwindcss.com/)&nbsp;
-  
+  [![Python](https://img.shields.io/badge/Python-H?style=flat&logo=python&logoColor=white&labelColor=%233776AB)](https://tailwindcss.com/)&nbsp; 
+
   
 
   
